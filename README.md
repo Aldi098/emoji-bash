@@ -1,3 +1,2 @@
 # emoji-bash
-
 ```install sendiri 😘````
